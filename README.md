@@ -2,6 +2,10 @@
 
 This is a sample Apple-inspired UI website created to showcase my front-end development skills. The project blends sleek design with interactive components, including modals, animations, embedded media, and a sample shopping cart interface. It’s built to reflect the clean, modern aesthetic of Apple’s digital experiences while demonstrating my ability to create responsive, engaging web layouts.
 
+## View the Site
+
+https://johnsoninsights.github.io/Apple-UI/
+
 ## ✨ Features
 
 - Smooth **animations** for transitions and hover effects
@@ -19,4 +23,4 @@ This is a sample Apple-inspired UI website created to showcase my front-end deve
 
 ## 🎯 Purpose
 
-This project serves as a visual and functional demonstration of my front-end capabilities. It highlights my approach to building modern interfaces that are both aesthetically pleasing and user-friendly. From interactive modals to dynamic content presentation, the Apple UI site reflects my attention to detail and passion for creating immersive digital experiences.
+This project serves as a visual and functional demonstration of front-end capabilities. It highlights my approach to building modern interfaces that are both aesthetically pleasing and user-friendly. From interactive modals to dynamic content presentation, the Apple UI site reflects my attention to detail and passion for creating immersive digital experiences.
